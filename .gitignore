@@ -1,0 +1,9 @@
+# ignore Key and Secret text files
+Key.txt
+Secret.txt
+
+# ignore data director
+data/
+
+# ignore ipynb checkpoints
+.ipynb_checkpoints/
